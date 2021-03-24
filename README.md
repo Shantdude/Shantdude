@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shantdude
+- 👋 Hi, I’m @Pratik
 - 👀 I’m interested in Java and c++
 - 🌱 I’m currently learning Java,SQL
 - 💞️ I’m looking to collaborate on my projects
