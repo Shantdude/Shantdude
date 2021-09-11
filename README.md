@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shantdude
-- 👀 I’m interested in Java and c++
+- 👀 I’m do competetive in C++, development in C# and Java
 - 🌱 I’m currently learning Java,SQL
 - 💞️ I’m looking to collaborate on my projects
 - 📫 How to reach me just drop a mail
