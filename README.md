@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pratik
 - 👀 I do competetive in C++, development in C# and Java
-- 🌱 I’m currently learning Java,SQL
+- 🌱 I’m currently learning C#, ASP.NET
 - 💞️ I’m looking to collaborate on my projects
 - 📫 How to reach me just drop a mail
 
