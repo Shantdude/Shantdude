@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shantdude
+- 👋 Hi, I’m @Pratik
 - 👀 I do competetive in C++, development in C# and Java
 - 🌱 I’m currently learning Java,SQL
 - 💞️ I’m looking to collaborate on my projects
